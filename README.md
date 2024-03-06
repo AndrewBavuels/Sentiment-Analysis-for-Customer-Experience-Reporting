@@ -30,7 +30,7 @@ To know the purpose of our visualization, **first** we must know the audience we
 
 #### Dashboard:
 
-![Dashboard]([https://github.com/AndrewBavuels/Final-Project-Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/Image/Spoti_reviews%20pipeline.png](https://github.com/AndrewBavuels/Final-Project-Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/Image/Dashboard.png))
+![Dashboard](https://github.com/AndrewBavuels/Final-Project-Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/Image/Dashboard.png)
 
 ## **4. Main conclusions 📁**
 
