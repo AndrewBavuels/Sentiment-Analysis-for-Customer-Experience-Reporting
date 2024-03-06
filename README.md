@@ -3,7 +3,9 @@
 ## 1. Project description 👇
 > Final Project - Part time Sept 2023 - [Ironhack Madrid - Data Analytics Bootcamp](https://www.ironhack.com/es-en/data-analytics)
 >
-> #### Functional architecture design:
+#### Functional architecture design:
+
+![Spoti_pipeline](https://github.com/AndrewBavuels/Final-Project-Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/Image/Spoti_reviews%20pipeline.png)
 >
 > ## **2. Technology stack 💻**
 
