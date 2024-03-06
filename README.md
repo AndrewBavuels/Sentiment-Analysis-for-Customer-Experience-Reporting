@@ -28,6 +28,10 @@ To know the purpose of our visualization, **first** we must know the audience we
 
 <!-- For this case, I developed a fictional character for the **Profile Persona** named Lucia, which the visualization will allow her to **take decisions about** what skills should be trained for **and** what countries offers the best for her professional development. -->
 
+#### Dashboard:
+
+![Dashboard]([https://github.com/AndrewBavuels/Final-Project-Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/Image/Spoti_reviews%20pipeline.png](https://github.com/AndrewBavuels/Final-Project-Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/Image/Dashboard.png))
+
 ## **4. Main conclusions 📁**
 
 
