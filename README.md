@@ -20,7 +20,7 @@
 - [matplotlib.pyplot](https://matplotlib.org/stable/contents.html): For data visualization.
 - [numpy](https://numpy.org/doc/stable/): For mathematical operations and array manipulation.
 - [pandas](https://pandas.pydata.org/docs/reference/frame.html): For data manipulation and analysis.
-- [sklearn](https://nltk.org/): For sentiment analysis among natural language processing tasks.
+- [nltk](https://nltk.org/): For sentiment analysis among natural language processing tasks.
 
 ## **3. Minimal Functional App ⚙️**
 
