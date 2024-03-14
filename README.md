@@ -40,8 +40,6 @@ For this project I used a "Spotify App Reviews" dataset from [Kaggle](https://ww
 
 ## **3. Minimal Functional App ⚙️**
 
-### Deliverables
-
 - A Tableau workbook uploaded to Tableau Public that contains the visualizations created from the processed dataset.
 - Code for constructing visualizations and organizing them into a Story as well as our results, obstacles encountered, lessons learned, and a link to our completed Tableau workbook.
 
