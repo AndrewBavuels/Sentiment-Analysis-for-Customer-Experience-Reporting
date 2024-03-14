@@ -6,7 +6,8 @@ The goal for this project was to apply advanced natural language processing tech
 
 ## 1. Project description 👇
 > Final Project - Part-time Sept 2023 - [Ironhack Madrid - Data Analytics Bootcamp](https://www.ironhack.com/es-en/data-analytics):
-> **_Development of KPI Dashboards and Reporting System, using Python, Pandas, and NLP tools._**
+> 
+**_Development of KPI Dashboards and Reporting System, using Python, Pandas, and NLP tools._**
 
 For this project I used a "Spotify App Reviews" dataset from [Kaggle](https://www.kaggle.com/datasets/mfaaris/spotify-app-reviews-2022). After being processed, the output was explored and saved in Tableau Public.
 
