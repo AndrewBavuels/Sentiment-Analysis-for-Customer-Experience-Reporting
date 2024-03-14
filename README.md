@@ -45,17 +45,17 @@ For this project I used a "Spotify App Reviews" dataset from [Kaggle](https://ww
 
 ### Dashboards previews:
 
-#### - Issues Management: Dashboard from Negative Reviews
+- Issues Management: Dashboard from Negative Reviews
 
 ![Issues Dashboard](https://github.com/AndrewBavuels/Final-Project-Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/images/Issues%20Dashboard.png)
 
-#### - Satisfaction Management: Dashboard from Positive Reviews
+- Satisfaction Management: Dashboard from Positive Reviews
 
-> *"I named this dashboard Spotiliebers (a parody term from Justin Bieber Fans) referring to Spotify Users Support, in order to give a fresh touch to this project".*
+    > *"I named this dashboard Spotiliebers (a parody term from Justin Bieber Fans) referring to Spotify Users Support, in order to give a fresh touch to this project".*
 
 ![Spotiliebers Dashboard](https://github.com/AndrewBavuels/Final-Project-Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/images/Spotiliebers%20Dashboard.png)
 
-## **4. Demo 📁**
+## **4. Demo 📊📈📉**
 
 To show what it looks like in action, [click here](https://public.tableau.com/app/profile/andres.buelvas.diago/viz/Final_Project_M3_v5_casi_final/1_IssuesDashboard?publish=yes).
 > **_Note:_** The demo is also contained in the main.txt file from Dashboard folder.
@@ -81,7 +81,7 @@ To show what it looks like in action, [click here](https://public.tableau.com/ap
     └── README.md    
 ```
 
-## **5. Main conclusions 📁**
+## **5. Next steps 💡**
 
 
 
