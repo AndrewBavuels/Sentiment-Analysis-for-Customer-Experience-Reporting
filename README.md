@@ -55,7 +55,11 @@ For this project I used a "Spotify App Reviews" dataset from [Kaggle](https://ww
 
 ### Dashboards:
 
+#### - Issues Dashboard from Negative Reviews:
+
 ![Issues Dashboard](https://github.com/AndrewBavuels/Final-Project-Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/images/Issues%20Dashboard.png)
+
+#### - Spotiliebers Dashboard from Positive Reviews:
 
 ![Spotiliebers Dashboard](https://github.com/AndrewBavuels/Final-Project-Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/images/Spotiliebers%20Dashboard.png)
 
