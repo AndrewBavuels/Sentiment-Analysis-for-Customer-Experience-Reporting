@@ -1,19 +1,23 @@
 # **Final Project - Sentiment Analysis for Customer Experience Reporting 📈📲🎵**
 
+The goal for this project was to apply advanced natural language processing techniques to **analyze customer reviews** and then, identify **areas for improvement** in the user experience.
+
+*"**Fun Fact:** This project idea popped out while I was reviewing LinkedIn Jobs. One of them roles got my attention, regarding customer experience improvement and teamwork, to test new features for an App."*
+
 ## 1. Project description 👇
-> Final Project - Part time Sept 2023 - [Ironhack Madrid - Data Analytics Bootcamp](https://www.ironhack.com/es-en/data-analytics)
->
+> Final Project - Part-time Sept 2023 - [Ironhack Madrid - Data Analytics Bootcamp](https://www.ironhack.com/es-en/data-analytics):
+> **_Development of KPI Dashboards and Reporting System, using Python, Pandas, and NLP tools._**
+
+For this project I used a "Spotify App Reviews (apparently on Google Play Store)" dataset from [Kaggle](https://www.kaggle.com/datasets/mfaaris/spotify-app-reviews-2022). After being processed, the output was explored and saved in Tableau Public.
+
 #### Functional architecture design:
 
-![Spoti_pipeline](https://github.com/AndrewBavuels/Final-Project-Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/Image/Spoti_reviews%20pipeline.png)
+![Spoti_pipeline](https://github.com/AndrewBavuels/Final-Project-Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/images/pipeline.png)
 >
 > ## **2. Technology stack 💻**
 
 #### Programming language:
 - [Python](https://docs.python.org/3/)
-
-#### Datasets:
-- `Spoti_reviews.csv`: From Kaggle.
 
 
 #### Python Libraries:
@@ -24,19 +28,4 @@
 
 ## **3. Minimal Functional App ⚙️**
 
-To know the purpose of our visualization, **first** we must know the audience we will present it to, in order to prepare our visualization and give the right message with the right words.
-
-<!-- For this case, I developed a fictional character for the **Profile Persona** named Lucia, which the visualization will allow her to **take decisions about** what skills should be trained for **and** what countries offers the best for her professional development. -->
-
-#### Dashboard:
-
-![Dashboard](https://github.com/AndrewBavuels/Final-Project-Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/Image/Dashboard.png)
-
-## **4. Main conclusions 📁**
-
-
-
-<!-- This is just the beginning of Lucia professional growth. For more details, [**click here**](https://public.tableau.com/views/Readme_mdProjectM2DataScience/1_Overview?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) to interact with the dynamic dashboard. -->
-
-###  **Contact info📧**
-For further information, reach me at andrew.bavuels@gmail.com
+Bla bla blah!.
