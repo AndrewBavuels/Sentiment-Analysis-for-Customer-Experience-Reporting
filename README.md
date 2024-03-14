@@ -38,17 +38,31 @@ For this project I used a "Spotify App Reviews" dataset from [Kaggle](https://ww
 
 ## **3. Minimal Functional App ⚙️**
 
-Bla bla blah!.
+### Technical Requirements ⚙
+- Construct a Tableau Story consisting of at least 5 story points for the data set we have chosen.
+- Use Story features such as captions and annotations.
+- Use all the concepts we covered in the chapter (sorting, filtering, different visualizations types, aggregations, etc.).
+- Our Tableau workbook consisting of at least 5 visualizations and 1 Story should be saved to Tableau Public.
+- Create a Github repo for this project, and our data should be saved to that repo in a folder named data.
+- Include a README.md file that describes the steps we took, our thought process as you built your visualizations and Story in Tableau, and a link to - our workbook on Tableau Public.
+
+### Deliverables
+
+- A Tableau workbook uploaded to Tableau Public that contains the visualizations and Story you created from your data set.
+- A data folder containing the data set you used for our project.
+- A README.md file containing a detailed explanation of your approach and code for constructing visualizations and organizing them into a Story as well as our results, obstacles encountered, lessons learned, and a link to our completed Tableau workbook.
 
 
-
-#### Dashboard:
+### Dashboards:
 
 ![Issues Dashboard](https://github.com/AndrewBavuels/Final-Project-Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/images/Issues%20Dashboard.png)
 
 ![Spotiliebers Dashboard](https://github.com/AndrewBavuels/Final-Project-Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/images/Spotiliebers%20Dashboard.png)
 
-## **4. Folder structure 📁**
+## **4. Demo 📁**
+- [main.txt](https:jhfdjshkjhskjhfkjdshkjs)
+
+## **5. Folder structure 📁**
 ```
 └── project
     ├── _wip_
