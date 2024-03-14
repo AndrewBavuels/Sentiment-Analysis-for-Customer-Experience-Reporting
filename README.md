@@ -8,7 +8,7 @@ The goal for this project was to apply advanced natural language processing tech
 > Final Project - Part-time Sept 2023 - [Ironhack Madrid - Data Analytics Bootcamp](https://www.ironhack.com/es-en/data-analytics):
 > **_Development of KPI Dashboards and Reporting System, using Python, Pandas, and NLP tools._**
 
-For this project I used a "Spotify App Reviews (apparently on Google Play Store)" dataset from [Kaggle](https://www.kaggle.com/datasets/mfaaris/spotify-app-reviews-2022). After being processed, the output was explored and saved in Tableau Public.
+For this project I used a "Spotify App Reviews" dataset from [Kaggle](https://www.kaggle.com/datasets/mfaaris/spotify-app-reviews-2022). After being processed, the output was explored and saved in Tableau Public.
 
 #### Functional architecture design:
 
@@ -29,3 +29,41 @@ For this project I used a "Spotify App Reviews (apparently on Google Play Store)
 ## **3. Minimal Functional App ⚙️**
 
 Bla bla blah!.
+
+
+
+#### Dashboard:
+
+![Issues Dashboard](https://github.com/AndrewBavuels/Final-Project-Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/images/Issues%20Dashboard.png)
+
+![Spotiliebers Dashboard](https://github.com/AndrewBavuels/Final-Project-Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/images/Spotiliebers%20Dashboard.png)
+
+## **4. Folder structure 📁**
+```
+└── project
+    ├── _wip_
+    ├── .gitignore
+    ├── notebooks
+    │   └── main.ipynb
+    ├── images
+    │   ├── pipeline.png
+    │   ├── Issues_Dashboard.png
+    │   └── Spotiliebers_Dashboard.png
+    ├── data
+    │   ├── raw
+    │   │   └── spoti_reviews.csv
+    │   └── processed
+    │       └── reviews_report.csv
+    ├── dashboard
+    │   └── main.txt
+    └── README.md
+
+    
+```
+
+## **5. Main conclusions 📁**
+
+
+
+###  **Contact info📧**
+For further information, reach me at andrew.bavuels@gmail.com
