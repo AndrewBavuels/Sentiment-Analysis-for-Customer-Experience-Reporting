@@ -7,21 +7,21 @@ The goal for this project was to apply advanced natural language processing tech
 ## 1. Project description 👇
 > Final Project - Part-time Sept 2023 - [Ironhack Madrid - Data Analytics Bootcamp](https://www.ironhack.com/es-en/data-analytics):
 > 
-**_Development of KPI Dashboards and Reporting System, using Python, Pandas, and NLP tools._**
+### **_Development of KPI Dashboards and Reporting System, using Python, Pandas, and NLP tools._**
 
 For this project I used a "Spotify App Reviews" dataset from [Kaggle](https://www.kaggle.com/datasets/mfaaris/spotify-app-reviews-2022). After being processed, the output was explored and saved in Tableau Public.
 
-#### Functional architecture design:
+### Functional architecture design:
 
 ![Spoti_pipeline](https://github.com/AndrewBavuels/Final-Project-Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/images/pipeline.png)
 >
-> ## **2. Technology stack 💻**
+## **2. Technology stack 💻**
 
-#### Programming language:
+### Programming language:
 - [Python](https://docs.python.org/3/)
 
 
-#### Python Libraries:
+### Python Libraries:
 - [matplotlib.pyplot](https://matplotlib.org/stable/contents.html): For data visualization.
 - [numpy](https://numpy.org/doc/stable/): For mathematical operations and array manipulation.
 - [pandas](https://pandas.pydata.org/docs/reference/frame.html): For data manipulation and analysis.
