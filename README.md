@@ -40,11 +40,10 @@ For this project I used a "Spotify App Reviews" dataset from [Kaggle](https://ww
 
 ## **3. Minimal Functional App ⚙️**
 
-- A Tableau workbook uploaded to Tableau Public that contains the visualizations created from the processed dataset.
-- Code for constructing visualizations and organizing them into a Story as well as our results, obstacles encountered, lessons learned, and a link to our completed Tableau workbook.
+- Notebook with the code that processes the dataset, from its Data Cleaning to the Area Classification, **described in the Functional architecture design**. 
+- Dashboards for both Issues & Satisfaction Management uploaded to Tableau Public, containing the visualizations created from the processed dataset. **The link is found in the Demo as main.txt file**
 
-
-### Dashboards:
+### Dashboards previews:
 
 #### - Issues Management: Dashboard from Negative Reviews
 
@@ -57,7 +56,9 @@ For this project I used a "Spotify App Reviews" dataset from [Kaggle](https://ww
 ![Spotiliebers Dashboard](https://github.com/AndrewBavuels/Final-Project-Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/images/Spotiliebers%20Dashboard.png)
 
 ## **4. Demo 📁**
-- [main.txt](https:jhfdjshkjhskjhfkjdshkjs)
+
+To show what it looks like in action, [click here](https://public.tableau.com/app/profile/andres.buelvas.diago/viz/Final_Project_M3_v5_casi_final/1_IssuesDashboard?publish=yes).
+> **_Note:_** The demo is also contained in the main.txt file from Dashboard folder.
 
 ## **5. Folder structure 📁**
 ```
