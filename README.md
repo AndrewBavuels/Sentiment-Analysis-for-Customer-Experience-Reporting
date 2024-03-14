@@ -11,6 +11,15 @@ The goal for this project was to apply advanced natural language processing tech
 
 For this project I used a "Spotify App Reviews" dataset from [Kaggle](https://www.kaggle.com/datasets/mfaaris/spotify-app-reviews-2022). After being processed, the output was explored and saved in Tableau Public.
 
+
+### Problems detected to solve are as follows:
+
+- Complex issues and gaps that affect customer experience
+- There is no assigned role structure for the identified problems
+- No reporting system to communicate issues effectively to stakeholders
+- Insufficient capacity to reply customer/user reviews
+
+
 ### Functional architecture design:
 
 ![Spoti_pipeline](https://github.com/AndrewBavuels/Final-Project-Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/images/pipeline.png)
@@ -57,9 +66,7 @@ Bla bla blah!.
     │       └── reviews_report.csv
     ├── dashboard
     │   └── main.txt
-    └── README.md
-
-    
+    └── README.md    
 ```
 
 ## **5. Main conclusions 📁**
