@@ -20,8 +20,6 @@ For this project I used a "Spotify App Reviews" dataset from [Kaggle](https://ww
 - Insufficient capacity to reply customer/user reviews
 
 
-
-
 ## **2. Technology stack 💻**
 
 ### Programming language:
@@ -38,7 +36,7 @@ For this project I used a "Spotify App Reviews" dataset from [Kaggle](https://ww
 
 ![Spoti_pipeline](https://github.com/AndrewBavuels/Final-Project-Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/images/pipeline.png)
 
-## **3. Minimal Functional App ⚙️**
+## **3. Minimal Functional Product ⚙️**
 
 - Notebook with the code that processes the dataset, from its Data Cleaning to the Area Classification, **described in the Functional architecture design**. 
 - Dashboards for both Issues & Satisfaction Management uploaded to Tableau Public, containing the visualizations created from the processed dataset. **The link is found in the Demo as main.txt file**
@@ -58,7 +56,7 @@ For this project I used a "Spotify App Reviews" dataset from [Kaggle](https://ww
 ## **4. Demo 📊📈📉**
 
 To show what it looks like in action, [click here](https://public.tableau.com/app/profile/andres.buelvas.diago/viz/Final_Project_M3_v5_casi_final/1_IssuesDashboard?publish=yes).
-> **_Note:_** The demo is also contained in the main.txt file from Dashboard folder.
+> **_Note:_** The demo is also contained in the main.txt file from the Dashboard folder.
 
 ## **5. Folder structure 📁**
 ```
@@ -83,7 +81,11 @@ To show what it looks like in action, [click here](https://public.tableau.com/ap
 
 ## **5. Next steps 💡**
 
-
+- Develop an action plan to address problem areas identified in the 80-20
+- Establish a multidisciplinary team with clearly defined roles to address the problem areas identified in the 80-20
+***
+- Automate the connection with new data in the reporting system
+- Integrate other data formats such as MySQL, PostgreSQL, JSON, XML
 
 ###  **Contact info📧**
 For further information, reach me at andrew.bavuels@gmail.com
