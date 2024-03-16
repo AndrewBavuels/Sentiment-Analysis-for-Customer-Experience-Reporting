@@ -55,7 +55,7 @@ For this project I used a "Spotify App Reviews" dataset from [Kaggle](https://ww
 
 ## **4. Demo 📊📈📉**
 
-To show what it looks like in action, [click here](https://public.tableau.com/app/profile/andres.buelvas.diago/viz/Final_Project_M3_v5_casi_final/1_IssuesDashboard?publish=yes).
+To show what it looks like in action, [click here](https://public.tableau.com/app/profile/andres.buelvas.diago/viz/Final_Project_m3_main_Relational_Model/1_1_IssuesDashboard?publish=yes).
 > **_Note:_** The demo is also contained in the main.txt file from the Dashboard folder.
 
 ## **5. Folder structure 📁**
