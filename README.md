@@ -79,7 +79,7 @@ To show what it looks like in action, [click here](https://public.tableau.com/ap
     └── README.md    
 ```
 
-## **5. Next steps 💡**
+## **6. Next steps 💡**
 
 - Develop an action plan to address problem areas identified in the 80-20
 - Establish a multidisciplinary team with clearly defined roles to address the problem areas identified in the 80-20
