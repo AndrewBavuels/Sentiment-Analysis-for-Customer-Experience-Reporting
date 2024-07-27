@@ -45,13 +45,12 @@ For this project I used a "Spotify App Reviews" dataset from [Kaggle](https://ww
 
 - Issues Management: Dashboard from Negative Reviews
 
-![Issues Dashboard](https://github.com/AndrewBavuels/Final-Project-Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/images/Issues%20Dashboard.png)
-
+![Issues Dashboard](https://github.com/AndrewBavuels/Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/images/Issues%20Dashboard.png)
 - Satisfaction Management: Dashboard from Positive Reviews
 
     > *"I named this dashboard Spotiliebers (a parody term from Justin Bieber Fans) referring to Spotify Users Support, in order to give a fresh touch to this project".*
 
-![Spotiliebers Dashboard](https://github.com/AndrewBavuels/Final-Project-Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/images/Spotiliebers%20Dashboard.png)
+![Spotiliebers Dashboard](https://github.com/AndrewBavuels/Sentiment-Analysis-for-Customer-Experience-Reporting/blob/main/images/Spotiliebers%20Dashboard.png)
 
 ## **4. Demo 📊📈📉**
 
